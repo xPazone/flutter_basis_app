@@ -21,3 +21,4 @@ class _BeagleScreenState extends State<BeagleScreen> {
     );
   }
 }
+
